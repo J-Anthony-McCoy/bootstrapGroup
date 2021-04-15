@@ -1,2 +1,1 @@
-# bootstrapGroup
-Group assignment utilizing Bootstrap elements
+# group-project-bootstrap
