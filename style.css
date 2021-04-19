@@ -89,6 +89,7 @@ h2 {
 .btn-danger:hover {
   background-color: black;
   width: fit-content;
+  border-color: black;
 }
 
 /* div and button font */
